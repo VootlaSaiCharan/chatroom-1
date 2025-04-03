@@ -1,4 +1,4 @@
-**Goldencat Chat App License**
+**vootlasaicharan Chat App License**
 
 **Version 1.0**
 
@@ -8,7 +8,7 @@ You are free to use, modify, and distribute this software for personal, non-comm
 
 **2. Commercial Use Restrictions**
 
-Any use of this software or its derivatives for commercial purposes, including but not limited to using it as part of a paid product, service, or any kind of commercial deployment, is strictly prohibited without prior written approval from the creator (Code With Goldencat).
+Any use of this software or its derivatives for commercial purposes, including but not limited to using it as part of a paid product, service, or any kind of commercial deployment, is strictly prohibited without prior written approval from the creator (Code With vootlasaicharan).
 
 **3. No Warranty**
 
@@ -20,5 +20,5 @@ You must retain the original copyright notice and attribution to the creator whe
 
 **5. Contact Information**
 
-For permissions related to commercial use, please contact: Code With Goldencat (codingwithgoldencat@gmail.com)
+For permissions related to commercial use, please contact: Code With vootlasaicharan
 
