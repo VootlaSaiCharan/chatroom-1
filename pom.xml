@@ -104,7 +104,7 @@
 					</excludes>
 				</configuration>
 			</plugin>
-		</plugins>a
+		</plugins>
 	</build>
 
 </project>
